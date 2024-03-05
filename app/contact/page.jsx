@@ -1,10 +1,10 @@
 import React from 'react';
-import style from './portfolio.module.css'
+import style from './contact.module'
 
 const page = () => {
   return (
     <div>
-      
+      constact
     </div>
   )
 }
